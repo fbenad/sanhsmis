@@ -1,2 +1,2 @@
 # sanhsmis
-Public repository of the SANHS MIS by Fernando B. Enad (IS 295b)
+Public repository of the SANHS MIS project by Fernando B. Enad for the IS 295b course.

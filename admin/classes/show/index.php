@@ -1,4 +1,12 @@
-		<div class="content-wrapper">
+<?php
+/*
+ * Academics Visible Page
+ *
+ * This page is used to display a class based on the value of the GET variable in the URL. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>		<div class="content-wrapper">
 		
 			<section class="content-header">
 				<div class="container">

@@ -1,3 +1,12 @@
+<?php
+/*
+ * Admissions Visible Page
+ *
+ * This page is used to manage the features for Admin->Admissions. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 	
 		<section class="content-header">

@@ -1,3 +1,12 @@
+<?php
+/*
+ * Auth Visible Page
+ *
+ * This page is used to manage the features for Admin->Auth. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 		<div class="content">
 			<div class="container">

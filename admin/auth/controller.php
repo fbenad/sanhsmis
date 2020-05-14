@@ -1,10 +1,11 @@
 <?php 
 /*
- * Controller Class
- * This class is used for Student-Logon operations
+ * Controller Class 
+ *
+ * This class is used to execute MySQL-related operations for Admin->Auth. 
+ * Request such as the CRUD operations are executed here as requested through the action.php file.
  * @author    	Fernando B. Enad
- * @url        	n/a
- * @license    	n/a
+ * @license    	Public
  */
 
 class Controller{

@@ -1,10 +1,11 @@
 <?php
 /*
  * Controller Class 
- * This class is used for Admin-Classes operations
+ *
+ * This class is used to execute MySQL-related operations for teh Admin->Admissions feature. 
+ * Request such as the CRUD operations are executed here as requested through the action.php file.
  * @author    	Fernando B. Enad
- * @url        	n/a
- * @license    	n/a
+ * @license    	Public
  */
  
 class Controller{

@@ -1,3 +1,12 @@
+<?php
+/*
+ * Auth Visible Page
+ *
+ * This page is the screen lock handler of the app. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 
 		<section class="content">

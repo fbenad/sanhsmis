@@ -1,7 +1,7 @@
 <?php
 /*
  * Controller Class 
- * This class is used for Admin-Classes operations
+ * This class is used for Admin->Users operations
  * @author    	Fernando B. Enad
  * @url        	n/a
  * @license    	n/a

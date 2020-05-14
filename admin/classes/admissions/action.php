@@ -1,4 +1,12 @@
 <?php
+/*
+ * Script Handler
+ *
+ * This page is used to process the request from the visible page of the Admin->Admissions feature. 
+ * Request such as the CRUD operations are queued here and executed by Controller (controller.php) class.
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
 session_start();
 require_once("../../../config/dbconfig.php");
 require_once("../../../config/settings.php");

@@ -1,3 +1,12 @@
+<?php
+/*
+ * Tools Visible Page
+ *
+ * This class is used to manage the features for Student->Tools. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 	
 		<section class="content-header">

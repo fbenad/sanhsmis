@@ -1,3 +1,12 @@
+<?php
+/*
+ * Login Visible Page
+ *
+ * This page is used as a lock screen after 30 minutes inactivity. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 
 		<section class="content">

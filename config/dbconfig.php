@@ -1,4 +1,12 @@
 <?php
+/*
+ * Database Handler
+ *
+ * This page is used to create a connection to the database. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+ 
 //local
 $servername = "localhost";
 $username = "fenad";

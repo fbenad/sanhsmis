@@ -1,3 +1,12 @@
+<?php
+/*
+ * Tools Visible Page
+ *
+ * This page is used to manage the features for Employee->Tools. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 	
 		<section class="content-header">

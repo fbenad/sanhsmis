@@ -1,3 +1,12 @@
+<?php
+/*
+ * Prospectus Visible Page
+ *
+ * This class is used to manage the features for Student->Prospectus. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 	
 		<section class="content-header">

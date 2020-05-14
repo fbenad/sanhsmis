@@ -1,3 +1,12 @@
+<?php
+/*
+ * Login Visible Page
+ *
+ * This page is used to change passwords when it is still in the default value. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 		<div class="content">
 			<div class="container">

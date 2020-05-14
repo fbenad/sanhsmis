@@ -1,4 +1,13 @@
-	<div class="content-wrapper">
+<?php
+/*
+ * Login Visible Page
+ *
+ * This page is used as the screen lock for 30 minute inactivity window. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
+		<div class="content-wrapper">
 
 		<section class="content">
 			<div class="container">

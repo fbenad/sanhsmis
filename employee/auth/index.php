@@ -1,3 +1,12 @@
+<?php
+/*
+ * Login Visible Page
+ *
+ * This page is used to manage the features for the login page. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 		<div class="content">
 			<div class="container">

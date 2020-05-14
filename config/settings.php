@@ -1,4 +1,12 @@
 <?php
+/*
+ * Site Settings Data Dashboard
+ *
+ * This page is used to store license and settings information of the app for accessibility.
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+ 
 require_once("dbconfig.php");
 // Organization
 /** Retrieving database info **/

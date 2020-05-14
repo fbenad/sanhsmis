@@ -1,3 +1,12 @@
+<?php
+/*
+ * Login Visible Page
+ *
+ * This page displays the login form to the app. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 		<div class="content">
 			<div class="container">

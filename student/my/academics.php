@@ -1,3 +1,12 @@
+<?php
+/*
+ * Academics Visible Page
+ *
+ * This page is used to manage the features for Student->Academics. 
+ * @author    	Fernando B. Enad
+ * @license    	Public
+ */
+?>
 	<div class="content-wrapper">
 	
 		<section class="content-header">
